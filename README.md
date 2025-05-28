@@ -7,3 +7,14 @@ Apesar disso, nossa intenção é continuar desenvolvendo o jogo, polindo-o com 
 para rodar o jogo,
 
 phyton basico e a extensão COLORAMA
+
+
+Mateo felipe barrera forero - 202512558
+Lucas gomes bravo monteiro - 202510200
+Juan sebastian barreraf forero - 202512550
+
+
+
+
+voce vai ter que lutar contra os boss usando os comandos que serão descritos no jogo
+
